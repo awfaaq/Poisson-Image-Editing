@@ -50,3 +50,5 @@ Le notebook générera plusieurs visualisations, notamment :
 -   Une figure de comparaison finale affichant les deux résultats côte à côte, avec leurs temps d'exécution respectifs.
 
 L'analyse conclut à la supériorité de la méthode de Fourier en termes de performance, avec un facteur d'accélération mesuré d'environ **10x** sur l'exemple fourni.
+
+Auteurs : Daniel Ashraful & Ahmed Salem-Habibi
